@@ -1,0 +1,11 @@
+*.pdf
+*.docx
+*.xlsx
+*.html
+*.csv
+*.jsonl
+.env
+.env.*
+*token*
+*secret*
+.DS_Store
